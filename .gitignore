@@ -4,3 +4,4 @@ cache_dir
 ready*
 __pycache__
 *.zip
+.idea
