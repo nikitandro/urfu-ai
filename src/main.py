@@ -5,6 +5,7 @@ import bot_response
 with open("src/token.txt") as file:
     bot = telebot.TeleBot(file.read())
 
+
 def filter_text(message_text: str):
     return_text = ""
     for char in message_text:
@@ -26,11 +27,13 @@ def get_text_messages(message):
         except Exception as e:
             print(e)
 
+
 def get_output(input_str: str) -> str:
     model_response = process_input(filter_text(input_str))
     bot_res = bot_response.BotResponse(model_response)
     output = bot_res.get_output()
     return output
+
 
 print("Bot is starting")
 bot.polling(none_stop=True, interval=0)

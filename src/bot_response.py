@@ -2,7 +2,7 @@ import model_communication
 import json
 import telebot
 
-with open("src/langs.json", 'r', encoding='utf-8-sig') as file:
+with open("src/langs-specific.json", 'r', encoding='utf-8-sig') as file:
     langs = json.load(file)
 
 class BotResponse:

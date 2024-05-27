@@ -15,7 +15,7 @@
         "numpy": "https://numpy.org/doc/",
         "pandas": "https://pandas.pydata.org/docs/",
         "tensorflow": "https://www.tensorflow.org/api_docs",
-        "lightGBM": "https://lightgbm.readthedocs.io/en/latest/",
+        "lightgbm": "https://lightgbm.readthedocs.io/en/latest/",
         "dora": "https://dora.readthedocs.io/en/latest/",
         "datacleaner": "https://datacleaner.readthedocs.io/en/latest/datacleaner.html"
       },
@@ -36,7 +36,7 @@
       "javascript": {
         "GENERAL": "https://js.org",
         "rxjs": "https://rxjs.dev/guide/overview",
-        "reactjs": "https://legacy.reactjs.org/docs/getting-started.html?url=https%3A%2F%2Freactjs.org%2Fdocs%2Fgetting-started.html",
+        "reactjs": "https://react.dev/reference/react",
         "typescript": "https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html",
         "jquery": "https://api.jquery.com",
         "react": "https://react.dev/learn",
@@ -93,8 +93,8 @@
         "dash": ["https://community.plotly.com/c/python/25?utm_medium=dash_docs&utm_content=header&_gl=1*frguiu*_ga*MTYwNzQyOTE2NC4xNzE0NTY4NjA2*_ga_6G7EE0JNSC*MTcxNDU2ODYwNi4xLjAuMTcxNDU2ODYwNi42MC4wLjA.","https://t.me/Python_Community_ru"],
         "numpy": ["https://github.com/numpy/numpy","https://t.me/propython"],
         "pandas": ["https://twitter.com/pandas_dev","https://t.me/pandas_dev"],
-        "tensorFlow": ["https://discuss.tensorflow.org/?_gl=1*1vvb9kz*_ga*MTczMzc5NjMwMS4xNzE0NTcwNTE0*_ga_W0YLR4190T*MTcxNDU3MDUxNC4xLjEuMTcxNDU3MDUxNC4wLjAuMA","https://t.me/tensorflowblog"],
-        "lightGBM": ["https://github.com/microsoft/LightGBM","https://t.me/python_tricks"],
+        "tensorflow": ["https://discuss.tensorflow.org/?_gl=1*1vvb9kz*_ga*MTczMzc5NjMwMS4xNzE0NTcwNTE0*_ga_W0YLR4190T*MTcxNDU3MDUxNC4xLjEuMTcxNDU3MDUxNC4wLjAuMA","https://t.me/tensorflowblog"],
+        "lightgbm": ["https://github.com/microsoft/LightGBM","https://t.me/python_tricks"],
         "dora": ["https://github.com/e-graveyard/dora","https://t.me/py_1000_prog"],
         "datacleaner": ["https://github.com/rhiever/datacleaner", "https://t.me/seniorpy"]
     },
@@ -103,14 +103,14 @@
         "spring": ["https://t.me/SpringBootMicroservices"],
         "kotlin": ["https://t.me/jvmchat"],
         "jhipster": ["https://twitter.com/java_hipster","https://t.me/middle_java"],
-        "maven": "https://maven.apache.org/community.html",
+        "maven": ["https://maven.apache.org/community.html"],
         "apache-common":["https://cwiki.apache.org/confluence/display/COMMONS/FrontPage"],
         "guava": ["https://github.com/google/guava","https://t.me/java_tips_and_tricks"],
         "google-gson": ["https://github.com/google/gson","https://t.me/Java_per_month"],
         "hibernate-orm": ["https://discourse.hibernate.org","https://t.me/Java_per_month"],
         "mockito": ["https://groups.google.com/g/mockito?pli=1","https://t.me/jvmchat"],
         "junit": ["https://github.com/junit-team/junit4/wiki","https://t.me/junit_ru"],
-        "log4j": ["[https://github.com/apache/logging-log4j2","https://t.me/middle_java"],
+        "log4j": ["https://github.com/apache/logging-log4j2","https://t.me/middle_java"],
         "java.lang": ["https://docs.oracle.com/javase/7/docs/api/help-doc.html", "https://t.me/javaCode"]
       },
       "javascript": {

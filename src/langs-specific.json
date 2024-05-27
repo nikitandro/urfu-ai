@@ -1,0 +1,30 @@
+{
+  "docs": {
+    "python": {
+      "django": "https://docs.djangoproject.com/en/5.0/"
+    },
+    "java": {
+      "spring": "https://docs.spring.io/spring-framework/reference/index.html"
+    },
+    "javascript": {
+      "reactjs": "https://react.dev/reference/react"
+    },
+    "php": {
+      "laravel": "https://laravel-docs.com/ru/docs/10.x"
+    }
+  },
+  "communities": {
+    "python": {
+      "django": ["https://t.me/pydjango", "https://discord.gg/xcRH6mN4fa"]
+    },
+    "java": {
+      "spring": ["https://t.me/springboot_ru", "https://t.me/springframeworkio"]
+    },
+    "javascript": {
+      "reactjs": ["https://t.me/react_js", "https://t.me/react_ru", "https://t.me/reactjs_samurai"]
+    },
+    "php": {
+      "laravel": ["https://t.me/laravel_pro", "https://t.me/laravelrus", "https://t.me/laravel_web"]
+    }
+  }
+}
