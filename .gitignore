@@ -5,3 +5,4 @@ ready*
 __pycache__
 *.zip
 .idea
+src/token.txt
